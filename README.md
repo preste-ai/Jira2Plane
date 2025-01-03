@@ -30,10 +30,11 @@ Export your atlassian website cookie using a browser extension like Cookie Edito
 
 Create an API key in your plane workspace
 
-Retrieve plane user ids using a dummy project with dummy tasks, each assigned to an individual plane user
+Retrieve plane user ids using a dummy project with dummy tasks, each assigned to an individual plane user.
+
 Retrieve all the jira user names and ids you need to map from the project exports
 
-either copy this notebook into a Google Colab or : 
+Either copy this notebook into a Google Colab or : 
 - Install pandas in your python environment
 - Install google.colab and googleapiclient in your python environment
 
