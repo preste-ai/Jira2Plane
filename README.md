@@ -1,6 +1,6 @@
 # Jira2Plane
 
-<a href="http://colab.research.google.com/github.com/preste-ai/Jira2Plane/Jira_to_Plane_(public).ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>  
+Jira_to_Plane notebook <a href="http://colab.research.google.com/github.com/preste-ai/Jira2Plane/blob/main/Jira_to_Plane_(public).ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>  
 Notebook to transfer projects from Jira to Plane.
 
 This notebook has been converted to jupyter notebook, but it was prepared and tested only as a Google Colab notebook.
